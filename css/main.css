@@ -38,6 +38,11 @@
   font-size: 22px;
 }
 
+body {
+  background-color: black; 
+  color: white;
+}
+
 /* When the screen is less than 800 pixels wide */
 @media screen and (max-width: 800px) {
   /* Hide all links, except for the selected tab */
